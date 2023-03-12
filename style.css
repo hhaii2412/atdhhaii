@@ -1,9 +1,5 @@
-img.trangchinh{
+.trangchinh{
     display: block;
     margin-left: auto;
     margin-right: auto;
-}
-.headertrai{
-    display: block;
-    margin-left: auto;
 }
